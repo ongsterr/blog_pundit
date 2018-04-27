@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an exercise tutorial on "Authorization With Pundit" from envatotuts.
+See [link](https://code.tutsplus.com/tutorials/authorization-with-pundit--cms-28202) to the tuturial.
 
-Things you may want to cover:
+Pundit is a tool that allows you to restrict certain parts of your Rails application to authorized users. It does this by providing you with certain helpers.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+In this tutorial, you will build a blog that restricts parts such as creating, updating and deleting articles to authorized users only.
